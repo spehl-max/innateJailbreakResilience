@@ -1,1 +1,1 @@
-# innateJailbreakResilience
+# Innate Jailbreak Resilience
